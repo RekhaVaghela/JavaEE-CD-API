@@ -1,0 +1,9 @@
+com\qa\cd\integration\JAXActivator.class
+com\qa\persistence\repository\CdInterfaceRepository.class
+com\qa\cd\integration\CdController.class
+com\qa\util\JSONUtil.class
+com\qa\cd\model\Artist.class
+com\qa\persistence\repository\CdDBRepository.class
+com\qa\persistence\repository\CdMapRepository.class
+com\qa\cd\business\service\CdService.class
+com\qa\cd\model\CdInfo.class
